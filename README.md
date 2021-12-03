@@ -3,6 +3,9 @@
 
 My repository holding the solutions to the Advent of Code challenge for 2021
 
+## About
+
+Solutions for [Advent of Code 2021](https://adventofcode.com/2021)
 
 ## How to run
 
